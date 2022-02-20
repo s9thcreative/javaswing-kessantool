@@ -1,0 +1,1 @@
+java -classpath classes -Xms1000m -Xmx10000m jp.yupj.kessantool.KessanTool "$@"
