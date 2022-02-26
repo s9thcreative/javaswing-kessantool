@@ -34,6 +34,7 @@ public class KessanConfig {
 			"売上"
 		},
 		{
+			"費用"
 		},
 		{
 		}
